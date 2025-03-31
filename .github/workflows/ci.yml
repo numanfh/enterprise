@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Sage Hallo
+      - name: Say Hello
         run: echo "👋 Hello World von deiner ersten GitHub Action!"
